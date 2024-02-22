@@ -1,7 +1,7 @@
-# Tris ❌⭕
+# TIC TAC TOE ❌⭕
 
-## Caratteristiche Principali 📋
-- **Interfaccia Grafica Intuitiva**: Grazie a Pygame, il gioco vanta un'interfaccia grafica pulita e facile da usare, rendendo ogni partita piacevole e senza intoppi.
+## Introduzione 📋
+L'obiettivo del progetto è quello di ricreare l'arcade game TIC TAC TOE.
 
 ## Tecnologie Utilizzate 💻
 - **Python**
